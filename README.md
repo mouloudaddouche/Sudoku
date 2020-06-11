@@ -21,5 +21,5 @@ http://e-campus2.uvsq.fr/Members/franques/Fichiers/in100-poly-td.pdf
 - [C](https://fr.wikipedia.org/wiki/C_(langage)) - Langage de programmation de l'application.
 
 ## Utilisation
-il suffit de se positionner dans le dossier Project et lancer la commande : make sudoku
+il suffit de se positionner dans le dossier Project et lancer la commande : make run.
 
